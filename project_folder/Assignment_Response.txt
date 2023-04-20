@@ -1,0 +1,11 @@
+## Describe the test results in your own words.  
+The test ran two seperate tests. 
+The first checks to see if the sum() function adds 3 integers together and is tested against the value 6.
+The second checks to see if the sum() function adds 3 fractions together and is tested against the value 1.
+The first test was successful but the second failed.
+This gave an overall F return as the sum of the fractions (9/10) is not equal to 1 and not all the tests were successful.
+
+## What do the test results mean?
+The results mean that the sum function in 
+"project_folder\my_sum\__init__.py" 
+can correctly arrive at the sum of integers but not fractions.
